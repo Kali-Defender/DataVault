@@ -62,3 +62,21 @@
 # 记数要循环
 
 #7. 输入一个字符串 str，输出第 m 个只出现过 n 次的字符，如在字符串 gbgkkdehh 中，找出第 2 个只出现 1 次的字符，输出结果：d
+# def test(str_test,num,counts):
+#     result=[]
+#     for i in str_test:
+#         count=str_test.count(i,0,len(str_test))
+#         if count==num:
+#              result.append(i)
+#     return result[counts-1]
+# print(test("gbgkkdehh",1,2))
+
+#8. 判断字符串 a = “welcome to my world” 是否包含单词 b = “world”，包含返回 True，不包含返回 False。
+def test():
+    test="Hello, welcome to my world."
+    b="welcome"
+    if b in test:
+        return True
+    else:
+        return False
+print(test())
