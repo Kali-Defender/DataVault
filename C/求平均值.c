@@ -1,9 +1,14 @@
 #include<stdio.h>
 int main()
 {
-	int a,b;
-	scanf("%d %d",&a,&b);
-	double c=(a+b)/2.0;
-	printf("a和b的平均值为：%f",c);
-	return 0;
+	int number;
+	int sum=0;
+	int count=0;
+	scanf("%d",&number);
+	while(number!=-1){
+		sum+=number;
+		count++;
+		scanf("%d",&number);
+	}
+	printf("%f\n",1.0*sum/count);
 }
