@@ -152,3 +152,10 @@
 #     a=sorted(str_list)
 #     return "".join(a)
 # print(test())
+
+#17. 打印出如下图案（菱形）:
+def test():
+    n = 8
+    for i in range(-int(n/2), int(n/2) + 1):
+        print(" " * abs(i), "*" * (n - abs(i) * 2))
+print(test())
