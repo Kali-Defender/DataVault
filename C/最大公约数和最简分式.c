@@ -4,12 +4,14 @@ int main()
 	int t;
 	int a,b;
 	scanf("%d %d",&a,&b);
-	while(b!=0)
+	int i=a;
+	int j=b;
+	while(j!=0)
 	{
-		t=a%b;
-		a=b;
-		b=t;
+		t=i%j;
+		i=j;
+		j=t;
 	}
-	printf("%d",a);
+	printf("%d/%d",a/i,b/i);
 	return 0;
 }
