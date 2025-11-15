@@ -1,4 +1,4 @@
-#include <stdio.h>      // 必须！用于 printf 和 scanf
+#include <stdio.h>      
 #include <stdlib.h>     // 必须！用于 rand() 和 srand()
 #include <time.h>       // 必须！用于 time()
 
