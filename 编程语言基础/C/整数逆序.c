@@ -1,17 +1,16 @@
 #include<stdio.h>
-int main()
-{
+#include<math.h>
+#define max pow(2,31)
+int main() {
 	int x;
-	int digit;
-	int ret=0;
 	scanf("%d",&x);
-	while(x>0)
+	long sum=0;
+	while(x!=0)
 	{
-	digit=x%10;
-//	printf("%d",digit);
-	ret=ret*10+digit;	
-	x/=10;
+		int m=x%10;
+		sum=sum*10+m;
+		x=x/10;
 	}
-	printf("%d",ret);
-	return 0;
+	if(sum<-max||sum>max-1) printf("false");
+	printf("%ld",sum);
 }
