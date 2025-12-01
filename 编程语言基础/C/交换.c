@@ -1,13 +1,16 @@
 #include<stdio.h>
+void swap(int *pa,int *pb);
 int main()
 {
-	int a;
-	int b;
-	int t=0;
-	scanf("%d %d",&a,&b);
-	t=a;
-	a=b;
-	b=t;
-	printf("a的值为%d b的值为%d",a,b);
+	int a=4;
+	int b=9;
+    swap(&a,&b);
+	printf("a=%d,b=%d",a,b);
 	return 0;
+}
+void swap(int *pa,int *pb)
+{
+	int t=*pa;
+	*pa=*pb;
+	*pb=t;
 }
