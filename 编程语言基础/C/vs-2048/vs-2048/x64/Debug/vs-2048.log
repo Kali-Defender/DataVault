@@ -1,0 +1,3 @@
+﻿  2048.cpp
+D:\vs_2048\vs-2048\vs-2048\2048.cpp(278,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  vs-2048.vcxproj -> D:\vs_2048\vs-2048\x64\Debug\vs-2048.exe
