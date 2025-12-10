@@ -53,5 +53,8 @@
     <ClCompile Include="交换.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="结构与联合.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

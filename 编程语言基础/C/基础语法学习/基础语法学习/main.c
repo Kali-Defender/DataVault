@@ -9,6 +9,7 @@
 //void Sum();
 //void TicTacToe();
 //void Exchange();
+void Structure();
 int main() {
 // height();
 //time_difference();
@@ -19,6 +20,7 @@ int main() {
 //change();
 //Sum();
 //TicTacToe();
-    //Exchange();
+//Exchange();
+     Structure();
     return 0;
 }
