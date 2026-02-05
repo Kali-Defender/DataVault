@@ -1,2 +1,8 @@
-﻿  结构与联合.c
-  基础语法学习.vcxproj -> D:\DataVault\DataVault\编程语言基础\C\基础语法学习\x64\Debug\基础语法学习.exe
+﻿  程序结构.c
+D:\DataVualt\DataVault\编程语言基础\C\基础语法学习\基础语法学习\程序结构.c(9,2): warning C4013: “f”未定义；假设外部返回 int
+D:\DataVualt\DataVault\编程语言基础\C\基础语法学习\基础语法学习\程序结构.c(10,2): warning C4013: “g”未定义；假设外部返回 int
+D:\DataVualt\DataVault\编程语言基础\C\基础语法学习\基础语法学习\程序结构.c(11,2): warning C4013: “h”未定义；假设外部返回 int
+D:\DataVualt\DataVault\编程语言基础\C\基础语法学习\基础语法学习\程序结构.c(21,1): warning C4716: “f”: 必须返回一个值
+D:\DataVualt\DataVault\编程语言基础\C\基础语法学习\基础语法学习\程序结构.c(26,1): warning C4716: “g”: 必须返回一个值
+D:\DataVualt\DataVault\编程语言基础\C\基础语法学习\基础语法学习\程序结构.c(33,1): warning C4716: “h”: 必须返回一个值
+  基础语法学习.vcxproj -> D:\DataVualt\DataVault\编程语言基础\C\基础语法学习\x64\Debug\基础语法学习.exe

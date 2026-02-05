@@ -56,5 +56,8 @@
     <ClCompile Include="结构与联合.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="程序结构.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

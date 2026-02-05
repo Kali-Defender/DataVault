@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\vs_2048\\vs-2048\\",
+  "WorkspaceRootPath": "D:\\DataVualt\\DataVault\\\u7F16\u7A0B\u8BED\u8A00\u57FA\u7840\\C\\vs-2048\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F40E1A44-ECEB-4599-82E7-A8C64E8600FC}|vs-2048\\vs-2048.vcxproj|D:\\vs_2048\\vs-2048\\vs-2048\\2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F40E1A44-ECEB-4599-82E7-A8C64E8600FC}|vs-2048\\vs-2048.vcxproj|D:\\DataVualt\\DataVault\\\u7F16\u7A0B\u8BED\u8A00\u57FA\u7840\\C\\vs-2048\\vs-2048\\2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F40E1A44-ECEB-4599-82E7-A8C64E8600FC}|vs-2048\\vs-2048.vcxproj|solutionrelative:vs-2048\\2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "2048.cpp",
-              "DocumentMoniker": "D:\\vs_2048\\vs-2048\\vs-2048\\2048.cpp",
+              "DocumentMoniker": "D:\\DataVualt\\DataVault\\\u7F16\u7A0B\u8BED\u8A00\u57FA\u7840\\C\\vs-2048\\vs-2048\\2048.cpp",
               "RelativeDocumentMoniker": "vs-2048\\2048.cpp",
-              "ToolTip": "D:\\vs_2048\\vs-2048\\vs-2048\\2048.cpp",
+              "ToolTip": "D:\\DataVualt\\DataVault\\\u7F16\u7A0B\u8BED\u8A00\u57FA\u7840\\C\\vs-2048\\vs-2048\\2048.cpp",
               "RelativeToolTip": "vs-2048\\2048.cpp",
-              "ViewState": "AgIAAFkBAAAAAAAAAAA+wGYBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-07T08:13:25.927Z",
               "EditorCaption": ""

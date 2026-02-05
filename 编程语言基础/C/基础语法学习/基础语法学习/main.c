@@ -9,8 +9,8 @@
 //void Sum();
 //void TicTacToe();
 //void Exchange();
-void Structure();
-int main() {
+//void Structure();
+//int main() {
 // height();
 //time_difference();
 //Compare_size();
@@ -21,6 +21,6 @@ int main() {
 //Sum();
 //TicTacToe();
 //Exchange();
-     Structure();
-    return 0;
-}
+//Structure();
+//    return 0;
+//}

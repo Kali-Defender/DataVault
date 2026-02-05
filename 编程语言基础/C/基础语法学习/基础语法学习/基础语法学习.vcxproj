@@ -135,6 +135,7 @@
     <ClCompile Include="比较大小.c" />
     <ClCompile Include="求和函数.c" />
     <ClCompile Include="猜数.c" />
+    <ClCompile Include="程序结构.c" />
     <ClCompile Include="结构与联合.c" />
     <ClCompile Include="身高.c" />
     <ClCompile Include="阶乘.c" />
